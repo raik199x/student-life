@@ -80,7 +80,20 @@
 * [Microprocessor Means and Systems](https://github.com/raik199x/BSUIR-labs/tree/main/7%20semestr/MMaS)
 * [System software for local computer networks](https://github.com/raik199x/BSUIR-labs/tree/main/7%20semestr/SSfLCN)
 * [Modeling](https://github.com/raik199x/BSUIR-labs/tree/main/7%20semestr/Modeling)
+* [Automation of design of computers and systems](https://github.com/raik199x/BSUIR-labs/tree/main/7%20semestr/AoDoCaS)
 * [Exam](https://github.com/raik199x/BSUIR-labs/tree/main/7%20semestr/exams)
+
+</details>
+
+</details>
+
+<details><summary>Eighth semester</summary>
+
+* [System software for local computer networks](https://github.com/raik199x/BSUIR-labs/tree/main/8%20semestr/SSfLCN)
+* [Storage systems](https://github.com/raik199x/BSUIR-labs/tree/main/8%20semestr/SS)
+* [Marketing](https://github.com/raik199x/BSUIR-labs/tree/main/8%20semestr/MSPaS)
+* [Control and Diagnostics of Computer Equipment](https://github.com/raik199x/BSUIR-labs/tree/main/8%20semestr/CaDCE)
+* [Diploma Project](https://github.com/raik199x/Emotion-Recognition)
 
 </details>
 

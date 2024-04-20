@@ -1,0 +1,1 @@
+../../../../Lab1/Lab1.srcs/sources_1/new/SN74.vhd
